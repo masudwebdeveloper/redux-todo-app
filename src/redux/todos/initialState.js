@@ -2,7 +2,8 @@ const initialState = [
     {
         id: 1,
         text: "learn English with LTDEZ",
-        completed: false
+        completed: false,
+        color: "Green"
     },
     {
         id: 2,
